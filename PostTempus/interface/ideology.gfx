@@ -1,0 +1,138 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_ideology_stalinism"
+		texturefile = "gfx/interface/ideologies/AuthSoc_Baathism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_trotskyism"
+		texturefile = "gfx/interface/ideologies/AuthSoc_Maoism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_marxist_leninism"
+		texturefile = "gfx/interface/ideologies/AuthSoc_MarxLenin.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_maoism"
+		texturefile = "gfx/interface/ideologies/AuthSoc_Stalinism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_baathism"
+		texturefile = "gfx/interface/ideologies/AuthSoc_Trotskyism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_anarchism"
+		texturefile = "gfx/interface/ideologies/LibSoc_Anarchism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_democratic_socialism"
+		texturefile = "gfx/interface/ideologies/LibSoc_DemocraticSoc.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_eco_socialism"
+		texturefile = "gfx/interface/ideologies/LibSoc_EcoSoc.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_conservative_democracy"
+		texturefile = "gfx/interface/ideologies/LibSoc_MarketSoc.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_religious_socialism"
+		texturefile = "gfx/interface/ideologies/LibSoc_Religious.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_neoconservatism"
+		texturefile = "gfx/interface/ideologies/Neo_Conservatives.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_reactionary"
+		texturefile = "gfx/interface/ideologies/Reactionary.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_social_conservatism"
+		texturefile = "gfx/interface/ideologies/Social_Conservatives.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_neoliberalism"
+		texturefile = "gfx/interface/ideologies/Social_liber.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_social_liberalism"
+		texturefile = "gfx/interface/ideologies/Neo_liber.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_absolute_monarchy"
+		texturefile = "gfx/interface/ideologies/Absolute_Monarchy.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_kratocracy"
+		texturefile = "gfx/interface/ideologies/Kratocracy.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_military_dictatorship"
+		texturefile = "gfx/interface/ideologies/Military_Dictatorship.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_technocratic_dictatorship"
+		texturefile = "gfx/interface/ideologies/Technocratic Dictatorship.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_theocratic_despotism"
+		texturefile = "gfx/interface/ideologies/Theocratic_Despotism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_corporatism"
+		texturefile = "gfx/interface/ideologies/Corporatism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_esoteric_fascism"
+		texturefile = "gfx/interface/ideologies/Esoteric_Fascism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_falangism"
+		texturefile = "gfx/interface/ideologies/Falangist.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_fascism"
+		texturefile = "gfx/interface/ideologies/Fascism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_national_socialism"
+		texturefile = "gfx/interface/ideologies/National_Socialism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_esoteric_futurism"
+		texturefile = "gfx/interface/ideologies/Esoteric_Futurism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_futurism"
+		texturefile = "gfx/interface/ideologies/Futurism_Base.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_apocalysm"
+		texturefile = "gfx/interface/ideologies/Apocalpysm.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_utopianism"
+		texturefile = "gfx/interface/ideologies/Utopian_Futurism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_constitutional_monarchy"
+		texturefile = "gfx/interface/ideologies/Consti_Monarchy.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_corporatocracy"
+		texturefile = "gfx/interface/ideologies/Corporatocracy.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_oligarchy"
+		texturefile = "gfx/interface/ideologies/Oligarchy.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_republican_dictatorship"
+		texturefile = "gfx/interface/ideologies/Repub_Dictatorship.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_technocratic_democracy"
+		texturefile = "gfx/interface/ideologies/Techno_Demo.dds"
+	}
+}

@@ -1,0 +1,7 @@
+##Post Tempus
+SPN = "countries/Spain.txt"
+PRT = "countries/Portugal.txt"
+SFC = "countries/SpanishFrance.txt"
+BSQ = "countries/BasqueCountry.txt"
+CTL = "countries/Catalonia.txt"
+GAL = "countries/Galicia.txt"
