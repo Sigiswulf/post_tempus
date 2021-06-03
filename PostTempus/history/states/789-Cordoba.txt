@@ -3,6 +3,7 @@ state={
 	name="STATE_789"
 
 	history={
+		owner = SPN
 		
 		victory_points = {
 			875 3
@@ -12,7 +13,7 @@ state={
 			industrial_complex = 1
 
 		}
-		
+		add_core_of = SPN
 
 	}
 

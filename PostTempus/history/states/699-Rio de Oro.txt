@@ -6,7 +6,7 @@ state={
 	state_category = wasteland
 
 	history={
-		
+		owner = SPN
 		
 		buildings = {
 			infrastructure = 1
@@ -17,6 +17,7 @@ state={
 		victory_points = {
 			8038 1
 		}
+		add_core_of = SPN
 	}
 	
 	provinces={

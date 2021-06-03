@@ -8,7 +8,7 @@ state=
 	
 	history=
 	{
-		
+		owner = SPN		
 		
 		victory_points = {
 			1903 1 
@@ -22,6 +22,7 @@ state=
 				naval_base = 1
 			}
 		}
+		add_core_of = SPN
 	}
 	provinces=
 	{
