@@ -10,6 +10,7 @@ tags={
 	"Ideologies"
 	"National Focuses"
 }
+replace_path="history/states"
 name="Post Tempus"
 supported_version="1.10.5"
 path="d:/Users/owner/Documents/Paradox Interactive/Hearts of Iron IV/mod/PostTempus"
