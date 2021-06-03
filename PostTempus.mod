@@ -10,6 +10,13 @@ tags={
 	"Ideologies"
 	"National Focuses"
 }
+replace_path="common/national_focus"
+replace_path="common/ai_strategy"
+replace_path="common/country_tags"
+replace_path="gfx/loadingscreens"
+replace_path="gfx/flags"
+replace_path="history/countries"
+replace_path="history/states"
 name="Post Tempus"
 supported_version="1.10.6"
 path="C:/Users/user/Documents/Paradox Interactive/Hearts of Iron IV/mod/PostTempus"
