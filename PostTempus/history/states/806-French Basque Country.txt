@@ -4,7 +4,7 @@ state={
 	name="STATE_806"
 
 	history={
-		
+		owner = BSQ 
 		victory_points = {
 			9710 3 
 		}
@@ -13,7 +13,7 @@ state={
 			infrastructure = 6
 
 		}
-		
+		add_core_of = BSQ 
 
 	}
 
