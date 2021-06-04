@@ -11,4 +11,4 @@ tags={
 	"National Focuses"
 }
 name="Post Tempus"
-supported_version="1.10.5"
+supported_version="1.10.7"
