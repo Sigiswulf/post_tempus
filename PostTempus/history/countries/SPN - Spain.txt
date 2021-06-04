@@ -57,7 +57,42 @@ if = {
 		mtg_transport = 1
 	}
 }
-
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = PRT
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = PRT
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = SFC
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = SFC
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = BSQ
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = BSQ
+	}
+}
 set_politics = {
 	ruling_party = fascism
 	last_election = "1933.2.16"
