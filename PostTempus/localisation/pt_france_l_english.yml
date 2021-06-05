@@ -1,0 +1,14 @@
+﻿l_english:
+#PARTIES
+ SFC_despotism_party:0 "Legión Pirineo"
+ SFC_despotism_party_long:0 "Legión Pirineo"
+ AQU_conservatism_party:0 "Republican Party"
+ AQU_conservatism_party_long:0 "The Republican Party of Aquitaine"
+ SWI_conservatism_party:0 "PLD"
+ SWI_conservatism_party_long:0 "Partida liberaldemocrata svizra"
+ BRI_conservatism_party:0 "BRLP"
+ BRI_conservatism_party_long:0 "Breton Revivalist Liberal Party"
+ COR_authoritarian_democracy_party:0 "AR"
+ COR_authoritarian_democracy_party_long:0 "Alliance Royale"
+ NOR_despotism_party:0 "FN"
+ NOR_despotism_party_long:0 "Forces expéditionnaires de Normandie "
