@@ -6,5 +6,45 @@ SFC = {
 
 SPN = {
 	color = rgb { 242 205 94 }
+	color_ui = rgb { 255 205 94 }
+}
+
+AQU = {
+	color = rgb { 230 230 255}
 	color_ui = rgb { 255 255 122 }
+}
+
+BRI = {
+	color = rgb { 166 166 166 }
+	color_ui = rgb {166 166 166}
+}
+
+BSQ = {
+	color = rgb { 255 153 0 }
+	color_ui = rgb { 255 153 0 }
+}
+
+COR = {
+	color = rgb { 102 154 0 }
+	color_ui = rgb { 102 154 0 }
+}
+
+NOR = {
+	color = rgb { 0 0 102 }
+	color_ui = rgb { 0 0 102 }
+}
+
+PRT = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 39 116 70 }
+}
+
+SFC = {
+	color = rgb { 153 102 51 }
+	color_ui = rgb { 153 102 51 }
+}
+
+SWI = {
+	color = rgb { 224 5 5 }
+	colour_ui = rgb { 193 81 81 }
 }
