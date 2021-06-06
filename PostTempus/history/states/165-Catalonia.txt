@@ -2,13 +2,15 @@
 state={
 	id=165
 	name="STATE_165"
-	manpower = 3036537
+	manpower = 6574547	
 	
 	state_category = large_city
 
 	history={
-		owner = SPN
 		
+		owner = SPN
+		add_core_of = CTL
+		add_core_of = SPN
 		victory_points = {
 			9764 30
 		}
@@ -27,7 +29,7 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = SPN
+		
 	}
 
 	provinces={

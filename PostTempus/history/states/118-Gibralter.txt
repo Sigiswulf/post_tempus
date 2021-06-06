@@ -2,11 +2,12 @@ state=
 {
 	id=118
 	name="STATE_118"
-	manpower=21372
+	manpower=42272
 	
 	state_category = enclave
 	history={
 		owner = SPN
+		add_core_of = SPN
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 6
@@ -16,7 +17,7 @@ state=
 				coastal_bunker = 2
 			}
 		}
-		add_core_of = SPN
+		
 	}
 	provinces={
 		4135

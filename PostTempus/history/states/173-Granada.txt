@@ -7,6 +7,7 @@ state={
 
 	history={
 		owner = SPN
+		add_core_of = SPN
 		victory_points = {
 			9979 5
 		}
@@ -30,14 +31,14 @@ state={
 			}
 
 		}
-		add_core_of = SPN
+		
 
 	}
 
 	provinces={
 		747 1176 4065 7068 7153 7196 9979 10009 10063 11956 12038 
 	}
-	manpower=1662292
+	manpower=2362292
 	buildings_max_level_factor=1.000
 	state_category=city
 }

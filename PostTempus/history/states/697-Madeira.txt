@@ -1,12 +1,13 @@
 state={
 	id=697
 	name="STATE_697"
-	manpower = 211600
+	manpower = 231743
 	
 	state_category = small_island
 
 	history={
 		owner = SPN
+		add_core_of = PRT
 		victory_points = {
 			3118 1
 		}
@@ -16,7 +17,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = SPN
+		
 	}
 	
 	provinces={

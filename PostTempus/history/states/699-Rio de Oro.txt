@@ -1,7 +1,7 @@
 state={
 	id=699
 	name="STATE_699"
-	manpower = 21056
+	manpower = 822259
 	
 	state_category = wasteland
 
@@ -17,7 +17,6 @@ state={
 		victory_points = {
 			8038 1
 		}
-		add_core_of = SPN
 	}
 	
 	provinces={

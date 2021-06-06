@@ -2,13 +2,15 @@
 state={
 	id=171
 	name="STATE_171"
-	manpower = 2295085
+	manpower = 3195085
 	
 	state_category = city
 
 	history={
-		owner = SPN
 		
+		owner = SPN
+		add_core_of = GAL
+		add_core_of = SPN
 		victory_points = {
 			758 5
 		}
@@ -24,7 +26,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = SPN
+		
 	}
 
 	provinces={

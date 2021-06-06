@@ -1,12 +1,13 @@
 state={
 	id=702
 	name="STATE_702"
-	manpower = 150600
+	manpower = 458392
 	
 	state_category = small_island
 
 	history={
-		
+		owner = SPN
+		add_core_of = SPN
 		buildings = {
 			infrastructure = 3
 			13014 ={

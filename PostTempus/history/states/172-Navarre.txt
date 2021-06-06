@@ -3,22 +3,24 @@ state={
 	name="STATE_172"
 
 	history={
-		owner = SPN
 		
+		owner = SPN
+		add_core_of = BSQ
+		add_core_of = SPN
 		victory_points = {
 			3933 1
 		}
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = SPN
+		
 
 	}
 
 	provinces={
 		932 3737 3931 3933 9857 
 	}
-	manpower=359880
+	manpower=1159880
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

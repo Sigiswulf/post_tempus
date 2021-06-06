@@ -2,12 +2,14 @@ state=
 {
 	id=177
 	name="STATE_177"
-	manpower = 365500
+	manpower = 1155203
 	
 	state_category = rural
 	
-	history={
-	owner = SPN
+	history=
+	{
+		owner = SPN
+		add_core_of = SPN
 		victory_points = {
 			9793 1
 		}
@@ -22,7 +24,7 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = SPN
+		
 	}
 	provinces=
 	{
