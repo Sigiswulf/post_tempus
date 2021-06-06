@@ -3,6 +3,11 @@ state={
 	id=806
 	name="STATE_806"
 
+	resources = {
+		steel = 2
+		tungsten = 1
+	}
+
 	history={
 		owner = BSQ
 		add_core_of = BSQ
@@ -19,7 +24,7 @@ state={
 	}
 
 	provinces={
-		743 9710 11697 
+		743 
 	}
 	manpower=280723
 	buildings_max_level_factor=1.000
