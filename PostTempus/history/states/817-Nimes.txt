@@ -1,0 +1,28 @@
+state={
+	id=817
+	name="STATE_817"
+	history = {
+			victory_points = {
+					11877 30
+			}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			army_factory = 3
+			dockyard = 1
+
+			11877 = {
+				naval_base = 3
+			}
+			11877 = {
+				bunker = 2
+			}
+		}
+	}
+	provinces={
+		11877 
+	}
+	manpower=233786
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

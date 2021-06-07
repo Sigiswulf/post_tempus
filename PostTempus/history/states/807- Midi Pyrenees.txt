@@ -1,10 +1,10 @@
+
 state={
 	id=807
 	name="STATE_807"
-
-	resources = {
-		steel = 8
-		tungsten = 5
+	resources={
+		steel=8.000
+		tungsten=5.000
 	}
 
 	history={
@@ -15,14 +15,13 @@ state={
 
 		}
 		add_core_of = AQU
-		
 
 	}
 
 	provinces={
-		929 3740 6759 9717 9882 9884 11697 11699 
+		929 3740 6759 9717 9884 11697 11699 
 	}
 	manpower=200000
 	buildings_max_level_factor=1.000
-	state_category = town
+	state_category=town
 }

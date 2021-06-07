@@ -1,0 +1,10 @@
+state={
+	id=829
+	name="STATE_829"
+	provinces={
+		764 3768 6609 6784 9745 
+	}
+	manpower=464587
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

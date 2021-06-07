@@ -17,6 +17,9 @@ state={
 		victory_points = {
 			9495 1
 		}
+		victory_points = {
+			11465 15 
+		}
 		buildings = {
 			infrastructure = 6
 			dockyard = 5
@@ -33,7 +36,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_owner_of = BRI
+		add_core_of = BRI
 		
 		1939.1.1 = {
 			buildings = {
@@ -43,6 +46,6 @@ state={
 	}
 
 	provinces={
-		542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
+		527 542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
 	}
 }

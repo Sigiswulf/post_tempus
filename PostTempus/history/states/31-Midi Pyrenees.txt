@@ -1,6 +1,6 @@
 
 state={
-	id=31
+	id=31 #Roussilion
 	name="STATE_31"
 
 	history={
@@ -20,10 +20,9 @@ state={
 	}
 
 	provinces={
-		943 3749 3915 3946 3948 6766 6915 6917 6931 6960 9723 9853 11702 12169
+		943 3749 3915 3946 6766 6915 6917 6931 9853 9882 12169 
 	}
 	manpower=582600
 	buildings_max_level_factor=1.000
 	state_category=city
 }
-

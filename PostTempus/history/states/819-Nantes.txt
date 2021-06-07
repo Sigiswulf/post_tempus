@@ -1,0 +1,22 @@
+state={
+	id=819
+	name="STATE_819"
+
+	history = {
+			owner = BRI
+			add_core_of = BRI
+			buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+
+		}
+	}
+	
+	provinces={
+		503 11465 
+	}
+	manpower=733655
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

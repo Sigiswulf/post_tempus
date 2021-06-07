@@ -1,0 +1,20 @@
+state={
+	id=830
+	name="STATE_830"
+	history = {
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			air_base = 4
+		}
+		victory_points = {
+			6613 10 
+		}
+	}
+	provinces={
+		6613 11593 11794 
+	}
+	manpower=581358
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

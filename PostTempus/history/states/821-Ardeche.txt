@@ -1,0 +1,13 @@
+state={
+	id=821
+	name="STATE_821"
+	history = {
+		
+	}
+	provinces={
+		6786 11716 
+	}
+	manpower=228000
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
