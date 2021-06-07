@@ -1,0 +1,18 @@
+state = {
+	id=813
+	name="STATE_813"
+
+	history = {
+
+		buildings = {
+			infrastructure = 7
+			industrial_complet = 1
+		}
+	}
+
+	provinces = {
+		13241
+	}
+	manpower = 128947
+	state_category = rural
+}
