@@ -135,4 +135,20 @@ spriteTypes = {
 		name = "GFX_ideology_technocratic_democracy"
 		texturefile = "gfx/interface/ideologies/Techno_Demo.dds"
 	}
+	SpriteType = {
+		name = "GFX_ideology_collective_consciousness"
+		texturefile = "gfx/interface/ideologies/CollectiveCon.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_xeno"
+		texturefile = "gfx/interface/ideologies/Xeno.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_feral"
+		texturefile = "gfx/interface/ideologies/Feral.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_eldritch"
+		texturefile = "gfx/interface/ideologies/Eldritch.dds"
+	}
 }
