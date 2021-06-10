@@ -93,6 +93,78 @@ if = {
 		puppet = BSQ
 	}
 }
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = AND
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = AND
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = BCD
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = BCD
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = IND
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = IND
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = VCD
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = VCD
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = ELD
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = ELD
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = BRD
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = BRD
+	}
+}
 set_politics = {
 	ruling_party = fascism
 	last_election = "1933.2.16"

@@ -1,4 +1,4 @@
-﻿capital = 3
+﻿capital = 813
 
 oob = ""
 if = {
@@ -68,14 +68,11 @@ set_popularities = {
 	conservatism = 64
 	liberalism = 36
 }
-add_ideas = {
-	safe_haven
-}
 create_country_leader = {
-	name = "Pascal Couchepin"
+	name = "Joan Enric Vives"
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
-	picture = "gfx/leaders/FRA/Pascal_Couchepin.dds"
+	picture = "gfx/leaders/FRA/Joan_Enric_Vives.dds"
 	expire = "2020.1.1"
-	ideology = neoconservatism
+	ideology = social_conservatism
 	traits = { }
 }
