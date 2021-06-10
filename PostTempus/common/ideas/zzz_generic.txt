@@ -2,11 +2,7 @@ ideas = {
 	country = {
 	
 		bandit_state = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea bandit_state"}
-			allowed = {
-				always = no
-			}
-
+		
 			allowed_civil_war = {
 				always = yes
 			}
@@ -23,10 +19,6 @@ ideas = {
 			}
 		}
 		bandit_horde = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea bandit_horde"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -47,10 +39,7 @@ ideas = {
 			}
 		}
 		pirate_state = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea bandit_state"}
-			allowed = {
-				always = no
-			}
+			
 
 			allowed_civil_war = {
 				always = yes
@@ -68,11 +57,7 @@ ideas = {
 			}
 		}
 		pirate_fleet = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea pirate_fleet"}
-			allowed = {
-				always = no
-			}
-
+			
 			allowed_civil_war = {
 				always = yes
 			}
@@ -89,10 +74,6 @@ ideas = {
 			}
 		}
 		pirate_horde = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea pirate_horde"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -110,11 +91,7 @@ ideas = {
 			}
 		}
 		mafian_state = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea mafian_state"}
-			allowed = {
-				always = no
-			}
-
+			
 			allowed_civil_war = {
 				always = yes
 			}
@@ -131,10 +108,7 @@ ideas = {
 			}
 		}
 		mafian_army = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea mafian_army"}
-			allowed = {
-				always = no
-			}
+			
 
 			allowed_civil_war = {
 				always = yes
@@ -153,10 +127,7 @@ ideas = {
 			}
 		}
 		military_occupation = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea military_occupation"}
-			allowed = {
-				always = no
-			}
+		
 
 			allowed_civil_war = {
 				always = yes
@@ -175,10 +146,6 @@ ideas = {
 			}
 		}
 		revolutionary_militia = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea revolutionary_militia"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -197,11 +164,6 @@ ideas = {
 			}
 		}
 		revolutionary_army = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea revolutionary_army"}
-			allowed = {
-				always = no
-			}
-
 			allowed_civil_war = {
 				always = yes
 			}
@@ -219,10 +181,6 @@ ideas = {
 			}
 		}
 		free_city = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea free_city"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -241,10 +199,6 @@ ideas = {
 			}
 		}
 		trade_city = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea trade_city"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -262,10 +216,6 @@ ideas = {
 			}
 		}
 		trade_city = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea trade_city"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -283,10 +233,6 @@ ideas = {
 			}
 		}
 		cult = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea cult"}
-			allowed = {
-				always = no
-			}
 
 			allowed_civil_war = {
 				always = yes
@@ -302,6 +248,153 @@ ideas = {
 				conscription = 0.005
 				encryption_factor = 0.50
 				enemy_justify_war_goal_time = 0.30
+			}
+		}
+		death_cult = {
+			
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				army_defence_factor = -0.20
+				army_attack_factor = -0.20
+				army_org_factor = 0.20
+				conscription = 0.03
+				war_support_factor = 0.40
+				justify_war_goal_time = -0.50
+				army_morale_factor = 0.20
+			}
+		}
+		safe_haven = {
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				war_support_factor = -0.30
+				monthly_population = 0.40
+				stability_weekly_factor = 0.10
+			}
+		}
+		secret_society = {
+
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				encryption_factor = 1.00
+				stability_weekly_factor = 0.05
+				justify_war_goal_time = 0.50
+			}
+		}
+		mutant_nation = {
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				army_defence_factor = 0.20
+				army_org_factor = -0.20
+				army_attack_factor = 0.20
+				stability_factor = -0.20
+				conscription_factor = -0.50
+			}
+		}
+		mercenary_army = {
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				consumer_goods_factor = 0.20
+				training_time_army_factor = 0.20
+				special_forces_cap = 0.20
+				special_forces_defense_factor = 0.10
+				special_forces_attack_factor = 0.10
+			}
+		}
+		merchant_state = {
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				consumer_goods_factor = 0.20
+				war_support_factor = -0.30
+				stability_weekly = 0.10
+				industrial_capacity_factory = 0.20
+				production_factory_max_efficiency_factor = 0.20
+			}
+		}
+		mercenary_state = {
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea mercenary_state"}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				consumer_goods_factor = -0.10
+				industrial_capacity_factory = -0.30
+				experience_gain_army = 0.20
+				special_forces_cap = 0.30
+				special_forces_defense_factor = 0.30
+				special_forces_attack_factor = 0.30
+			}
+		}
+		paramilitary = {
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+			
+			modifier = {
+				consumer_goods_factor = 0.20
+				army_attack_factor = 0.10
+				experience_gain_army = 0.10
+				weekly_manpower = 70
+				army_org_factor = -0.10
+				land_night_attack = 0.10
+				production_factory_max_efficiency_factor = -0.30
 			}
 		}
 	}

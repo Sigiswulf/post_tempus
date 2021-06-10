@@ -43,3 +43,31 @@ SWI = {
 	color = rgb { 175 80 70 }
 	colour_ui = rgb { 193 81 81 }
 }
+
+IND = {
+	color = rgb { 158  116  49 }
+	color_ui = rgb { 158  116  49 }
+}
+
+VCD = {
+	color = rgb { 158  116  49 }
+	color_ui = rgb { 158  116  49 }
+}
+
+BCD = {
+	color = rgb { 158  116  49 }
+	color_ui = rgb { 158  116  49 }
+}
+
+BRD = {
+	color = rgb { 158  116  49 }
+	color_ui = rgb { 158  116  49 }
+}
+ELD = {
+	color = rgb { 158  116  49 }
+	color_ui = rgb { 158  116  49 }
+}
+AND = {
+	color = rgb { 255 136 109 }
+	colour_ui = rgb { 255 136 109 }
+}
