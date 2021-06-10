@@ -3,11 +3,13 @@ state={
 	name="STATE_809"
 
 	history = {
+		owner = BCD
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
 			arms_factor = 1
 		}
+		add_core_of = BCD
 	}
 	provinces={
 		13237 
