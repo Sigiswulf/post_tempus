@@ -68,6 +68,6 @@ ELD = {
 	color_ui = rgb { 158  116  49 }
 }
 AND = {
-	color = rgb { 255 136 109 }
+	color = rgb { 193 103 83 }
 	colour_ui = rgb { 255 136 109 }
 }
