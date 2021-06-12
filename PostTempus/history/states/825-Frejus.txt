@@ -2,7 +2,8 @@ state={
 	id=825
 	name="STATE_825"
 	history = {
-		
+		owner = FTC
+		add_core_of = FTC
 	}
 	provinces={
 		3928 
