@@ -151,4 +151,16 @@ spriteTypes = {
 		name = "GFX_ideology_eldritch"
 		texturefile = "gfx/interface/ideologies/Eldritch.dds"
 	}
+	SpriteType = {
+		name = "GFX_ideology_ultrastatism"
+		texturefile = "gfx/interface/ideologies/Ultrastatism.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_securocracy"
+		texturefile = "gfx/interface/ideologies/Secucracy.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_oligarchical_ollectivism"
+		texturefile = "gfx/interface/ideologies/Collective_Oligarchism.dds"
+	}
 }

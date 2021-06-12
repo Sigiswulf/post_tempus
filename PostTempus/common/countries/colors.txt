@@ -71,3 +71,31 @@ AND = {
 	color = rgb { 193 103 83 }
 	colour_ui = rgb { 255 136 109 }
 }
+MCO = {
+	color = rgb { 160 0 0 }
+	colour_ui = rgb { 160 0 0 }
+}
+FCN = {
+	color = rgb { 255 122 45 }
+	colour_ui = rgb { 255 122 45 }
+}
+HAS = {
+	color = rgb { 255 122 45 }
+	colour_ui = rgb { 255 122 45 }
+}
+FTC = {
+	color = rgb { 90 62 96 }
+	colour_ui = rgb { 90 62 96 }
+}
+ORN = {
+	color = rgb { 165 77 43 }
+	colour_ui = rgb { 165 77 43 }
+}
+TCN = {
+	color = rgb { 90 62 100 }
+	colour_ui = rgb { 90 62 100 }
+}
+SAR = {
+	color = rgb { 99 156 165 }
+	colour_ui = rgb { 99 156 165 }
+}
