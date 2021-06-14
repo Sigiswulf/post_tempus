@@ -41,7 +41,7 @@ PRT = {
 
 SWI = {
 	color = rgb { 175 80 70 }
-	colour_ui = rgb { 193 81 81 }
+	colour_ui = rgb { 193  81  81 }
 }
 
 IND = {
@@ -96,6 +96,18 @@ TCN = {
 	colour_ui = rgb { 90 62 100 }
 }
 SAR = {
-	color = rgb { 99 156 165 }
-	colour_ui = rgb { 99 156 165 }
+	color = rgb { 189 45 136 }
+	colour_ui = rgb { 189 45 136 }
+}
+FRA = {
+	color = rgb { 40 74 175 }
+	colour_ui = rgb { 40 74 175 }
+}
+MSF = {
+	color = rgb { 150 27 13 }
+	colour_ui = rgb { 150 27 13 }
+}
+FEA = {
+	color = rgb { 181 60 47 }
+	colour_ui = rgb { 181 60 47 }
 }
