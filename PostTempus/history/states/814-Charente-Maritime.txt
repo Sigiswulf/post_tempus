@@ -1,6 +1,10 @@
 state={
 	id=814
 	name="STATE_814"
+	history = {
+		owner = MSF	
+		add_core_of = MSF
+	}
 	provinces={
 		595 9597 11565 
 	}

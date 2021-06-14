@@ -6,7 +6,7 @@ state = {
 		owner = AND
 		buildings = {
 			infrastructure = 7
-			industrial_complet = 1
+			industrial_complex = 1
 		}
 		add_core_of = AND
 	}

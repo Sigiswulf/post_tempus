@@ -2,9 +2,6 @@ state={
 	id=829
 	name="STATE_829"
 	history = {
-		owner = ORN
-		add_core_of = ORN
-		
 	}
 	provinces={
 		764 3768 6609 6784 9745 
