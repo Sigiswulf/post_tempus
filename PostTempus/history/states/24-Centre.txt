@@ -21,15 +21,10 @@ state={
 
 		}
 		
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
-		}
 		add_core_of = FRA
 	}
 
 	provinces={
-		512 3493 3671 6518 6533 6688 9492 11611 11631 
+		512 3493 3671 6518 6533 6688 9492 11631 
 	}
 }

@@ -2,11 +2,16 @@ state={
 	id=831
 	name="STATE_831"
 	history = {
+
+		victory_points = {
+			9490 5 
+		}
+
 		owner = FRA
 		add_core_of = FRA
 	}
 	provinces={
-		551 3533 6531 11732 
+		551 3533 6531 9490 11732 
 	}
 	manpower=180878
 	buildings_max_level_factor=1.000

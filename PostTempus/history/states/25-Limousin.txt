@@ -10,14 +10,11 @@ state={
 		buildings = {
 			infrastructure = 5
 		}
-		victory_points = {
-			620 5
-		}
 		add_core_of = MSF
 		
 	}
 
 	provinces={
-		620 625 755 3598 3771 6618 6775 6792 9734 9751 11718 11720 
+		755 3598 3948 6775 6792 9734 9751 11702 11720 
 	}
 }

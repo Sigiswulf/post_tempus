@@ -2,14 +2,11 @@
 state={
 	id=18
 	name="STATE_18"
-	manpower = 1370800
+	manpower = 822410
 	
-	state_category = city
+	state_category = large_town
 
 	history={
-		victory_points = {
-			9490 5 
-		}
 		victory_points = {
 			13011 5
 		}
@@ -24,6 +21,6 @@ state={
 	}
 
 	provinces={
-		551 3533 3546 3560 5291 6531 6545 9472 9490 9505 11732 13011 
+		3546 3560 5291 6545 9472 13011 
 	}
 }
