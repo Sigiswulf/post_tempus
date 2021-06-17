@@ -8,6 +8,7 @@ state={
 	}
 
 	history={
+		owner = BHP
 		victory_points = {
 			11420 5 
 		}
@@ -16,7 +17,7 @@ state={
 			industrial_complex = 1
 
 		}
-
+		add_core_of = BHP
 	}
 
 	provinces={

@@ -4,6 +4,7 @@ state={
 	name="STATE_26"
 
 	history={
+	owner = ORN
 		victory_points = {
 			3594 3 
 		}
@@ -12,7 +13,7 @@ state={
 			industrial_complex = 1
 
 		}
-
+	add_core_of = ORN
 	}
 
 	provinces={
