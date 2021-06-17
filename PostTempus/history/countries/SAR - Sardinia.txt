@@ -73,6 +73,6 @@ create_country_leader = {
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
 	picture = "gfx/leaders/ITA/Giacomo_Sanna.dds"
 	expire = "2020.1.1"
-	ideology = falangism
+	ideology = fascism_sub
 	traits = { }
 }

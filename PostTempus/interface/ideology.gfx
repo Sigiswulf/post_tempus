@@ -92,7 +92,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/Falangist.dds"
 	}
 	SpriteType = {
-		name = "GFX_ideology_fascism"
+		name = "GFX_ideology_fascism_sub"
 		texturefile = "gfx/interface/ideologies/Fascism.dds"
 	}
 	SpriteType = {
@@ -104,7 +104,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/Esoteric_Futurism.dds"
 	}
 	SpriteType = {
-		name = "GFX_ideology_futurism"
+		name = "GFX_ideology_futurism_sub"
 		texturefile = "gfx/interface/ideologies/Futurism_Base.dds"
 	}
 	SpriteType = {
@@ -152,7 +152,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/Eldritch.dds"
 	}
 	SpriteType = {
-		name = "GFX_ideology_ultrastatism"
+		name = "GFX_ideology_ultrastatism_sub"
 		texturefile = "gfx/interface/ideologies/Ultrastatism.dds"
 	}
 	SpriteType = {

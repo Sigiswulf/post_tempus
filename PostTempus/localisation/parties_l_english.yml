@@ -17,6 +17,8 @@
  fascism:0"Fascist"
  fascism_noun:0"Fascism"
  fascism_desc:0 "Fascist State"
+ fascism_sub:0"Fascism"
+ fascism_sub_desc:0"One would hope that the hanging and shooting of the man who coined the term, the destruction of most of Europe, the complete dismantlement of all states who practiced it after World War 2, and nuclear armageddon would be enough to kill this ideology. But sadly that isn't the case. \n\n Fascism has two main tenets, a promise to grant a nation a much-awaited glorious rebirth to return it to its glory of many centuries ago and a deeply ingrained Us vs Them mentality. Everything the state does is to protect us from them. Everything and anything, and we don't care if they were your neighbor two weeks back. It all is for the safety and glory of the Us."
  falangism:0"Falangism"
  falangism_desc:0""We believe in the Supreme reality of Spain." Thus begins "The Twenty Seven Points", the original Falangist manifesto. Now, unsurprisingly, this ideology revolves around Spain. Advocating for a return to the Spanish Empire of old and a strong government, intolerant to any attempt at separatism, communism, democracy, or liberalism, it is widely considered the Francoist flavor of Fascism. \n\n By promoting a strong Catholic and Spanish identity, it quickly rose to prominence in the chaotic 30s, before Spain was plunged into civil war. Afterward, it arose as the main ideology of Franco's Spain. And ever since the bombs dropped, it became the driving force of Spain's growing influence in Western Europe. For better or worse. Probably worse."
  corporatism:0 "Corporatism"
@@ -28,7 +30,7 @@
 #Auth Soc
  authoritarian_socialism:0"Authoritarian Socialist"
  authoritarian_socialism_noun:0"Authoritarian Socialism"
- authoritarian_socialism_desc:0"Authoritarian Socialism State"
+ authoritarian_socialism_desc:0"Authoritarian Socialist State"
  stalinism:0"Stalinism"
  stalinism_desc:0"As the world recovers from one of the most devastating and destructive conflicts in human history, people have tried learning from how humanity defeated adversity in the past. Some have even taken notes from how a backward and mostly feudal country, quickly became a world superpower in just a few decades. \n\n Stalinism, as first practiced by the Man of Steel himself, is a variety of socialism defined by an authoritarian and socialist one-party state, a planned economy, and intense force collectivization and industrialization. It also places a high emphasis on the industrial capacity of a country and the output of heavy industries, treating all other aspects of the economy as secondary."
  trotskyism:0"Trotskyism"
@@ -56,7 +58,7 @@
 #Conservatism
  conservatism:0"Conservatist"
  conservatism_noun:0"Conservatism"
- conservatism_desc:0"Conservatist Democracy"
+ conservatism_desc:0"Conservative Democracy"
  social_conservatism:0"Social Conservatism"
  social_conservatism_desc:0"What did humanity have after the bombs fell? What did we keep with us when everything else turned to rubble and ash? Our monuments crumbled and our flags burned, but societies and cultures are more than just that. Our values and traditions still live on past the hellfire. \n\n Social Conservatism is an ideology that places great importance on the conservation of traditional values and traditions. Economically, there is no one clear doctrine conservatives tend to stick to, but a mixture of protectionism and free-market policies are usually favored."
  neoconservatism:0"Neoconservatism"
@@ -88,7 +90,9 @@
 #Futurism
  futurism:0"Futurist"
  futurism_noun:0"Futurism"
- futurism_desc:0"When the bombs fell, the old world became piles of rubble and ash or famine and poverty-stricken lands. Some still cling to the ideas of old. Be they ideas of government, culture, society, or morals. The Futurists of the world reject these ideas and look at those who try to keep them alive with distaste. \n\n "If the ideas of old brought the world to its current state, then what good are they now?" That is the argument you will hear every Futurist preach. They instead wish for the future, for it is there that their glory awaits. And if they have to abandon everything that once defined humanity, then so be it."
+ futurism_desc:0"Futurist State"
+ futurism_sub:0"Futurism"
+ futurism_sub_noun:0"When the bombs fell, the old world became piles of rubble and ash or famine and poverty-stricken lands. Some still cling to the ideas of old. Be they ideas of government, culture, society, or morals. The Futurists of the world reject these ideas and look at those who try to keep them alive with distaste. \n\n "If the ideas of old brought the world to its current state, then what good are they now?" That is the argument you will hear every Futurist preach. They instead wish for the future, for it is there that their glory awaits. And if they have to abandon everything that once defined humanity, then so be it." 
  esoteric_futurism:0"Esoteric Futurism"
  esoteric_futurism_desc:0"Some people look at the world and understand that there are some things that we as humans can't comprehend. After all, if you were to put a cat in front of a tv, its brain couldn't comprehend the images. The human brain, just as a cat's, has limits to how we can perceive the universe. Beyond the furthest of stars and in the smallest of particles lie the unknown humanity cannot comprehend.\n\n Aliens, beings beyond the comprehension of our minds, and powers far beyond what humanity will ever wield might be just a few star systems away. Esoteric Futurists look to understand the mysticism of the galaxy and the stars, and maybe even harness their power."
  apocalysm:0"Apocalysm"
@@ -110,7 +114,9 @@
 #Ultra Statism
  ultrastatism:0 "Ultra Statist"
  ultrastatism_noun:0 "Ultra Statism"
- ultrastatism_desc:0 "Can humanity be trusted with itself? Can our societies live and prosper on their own without anything to guide them? If the chaos following closely behind when the bombs fell showed us something, is that we cannot. When the great superpowers of the world collapsed, so too did their citizen's civility. So wouldn't you agree then, that only a State can keep order? \n\n Hobbes once envisioned the perfect state as a Leviathan, a touchless entity by its citizens who through efficient bureaucracy and control, ensured prosperity and protection for all its citizens in exchange of unwavering loyalty. Now that his dreams have become reallity, they are the nightmares of hundreds of thousands. The individual is no more, only the State. The State is the only thing that matters. And anything the State wishes, it will do."
+ ultrastatism_desc:0 "Totalitarian State"
+ ultrastatism_sub:0 "Ultra Statism"
+ ultrastatism_sub_desc:0 "Can humanity be trusted with itself? Can our societies live and prosper on their own without anything to guide them? If the chaos following closely behind when the bombs fell showed us something, is that we cannot. When the great superpowers of the world collapsed, so too did their citizen's civility. So wouldn't you agree then, that only a State can keep order? \n\n Hobbes once envisioned the perfect state as a Leviathan, a touchless entity by its citizens who through efficient bureaucracy and control, ensured prosperity and protection for all its citizens in exchange of unwavering loyalty. Now that his dreams have become reallity, they are the nightmares of hundreds of thousands. The individual is no more, only the State. The State is the only thing that matters. And anything the State wishes, it will do."
  securocracy:0"Securocracy"
  securocracy_desc:0"Chaos engulfed the world when the bombs fell. Terror, worry, and dread filled the hearts of the world as the once civilized world dropped all pretenses and embraced the violence of the new world. It took years for the people of the world to once again be safe. And some people only managed to get their safety back in exchange for other things. Like their privacy and secrets. \n\n A securocracy is a state which is near indistinguishable from the police serving inside the nation. It is hard to understand just where the civilian government starts and where the black batons of the officers begin. Maybe there isn't even a civilian government, just a puppet dressed as one."
  oligarchical_ollectivism:0"Oligarchical Collectivism"

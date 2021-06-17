@@ -53,7 +53,7 @@ ideologies = {
 	}
 	fascism = {
 		types = {
-			fascism = {
+			fascism_sub = {
 			}
 			falangism = {
 			}
@@ -358,7 +358,7 @@ ideologies = {
 		types = {
 			esoteric_futurism = {
 			}
-			futurism = {
+			futurism_sub = {
 			}
 			apocalysm = {
 			}
@@ -456,7 +456,7 @@ ideologies = {
 	}
 	ultrastatism = {
 		types = {
-			ultrastatism = {
+			ultrastatism_sub = {
 			}
 			securocracy = {
 			}

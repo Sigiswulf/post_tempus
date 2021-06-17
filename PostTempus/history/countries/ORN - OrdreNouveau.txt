@@ -68,5 +68,5 @@ create_country_leader = {
 	name = "François Brigneau"
 	picture = "gfx/leaders/FRA/François_Brigneau.dds"
 	expire = "2020.1.1"
-	ideology = fascism 
+	ideology = fascism_sub 
 }
