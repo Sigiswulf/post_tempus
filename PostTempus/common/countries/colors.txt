@@ -111,3 +111,7 @@ FEA = {
 	color = rgb { 181 60 47 }
 	colour_ui = rgb { 181 60 47 }
 }
+BHP = {
+	color = rgb { 89 149 165 }
+	colour_ui = rgb { 89 149 165 }
+}

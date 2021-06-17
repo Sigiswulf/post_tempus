@@ -462,6 +462,8 @@ ideologies = {
 			}
 			oligarchical_ollectivism = {
 			}
+			ultra_militarism = {
+			}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_NONALIGNED_1"
