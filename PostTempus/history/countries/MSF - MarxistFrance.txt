@@ -75,5 +75,8 @@ create_country_leader = {
 	picture = "gfx/leaders/FRA/Georges_Marchais.dds"
 	expire = "2020.1.1"
 	ideology = marxist_leninism
-	traits = { }
+	traits = { 
+		paranoid
+		marxist_champion
+	}
 }

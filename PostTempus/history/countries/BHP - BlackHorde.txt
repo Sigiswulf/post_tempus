@@ -71,9 +71,11 @@ set_popularities = {
 set_stability = 0.5
 create_country_leader = {
 	name = "Fabien Ancel"
-	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	desc = "POLITICS_FABIEN_ANCEL_DESC"
 	picture = "gfx/leaders/FRA/Fabien_Ancel.dds"
 	expire = "2020.1.1"
 	ideology = kratocracy
-	traits = { }
+	traits = {
+		lowlands_menace	
+		}
 }

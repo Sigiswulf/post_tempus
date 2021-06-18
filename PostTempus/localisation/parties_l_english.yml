@@ -1,4 +1,16 @@
 ﻿l_english:
+#Drifts
+ despotism_drift:0 "Daily Despotic Drift"
+ fascism_drift:0 "Daily Fascism Drift"
+ authoritarian_socialism_drift:0 "Daily Authoritarian Socialist Drift"
+ liberal_socialism_drift:0 "Daily Liberal Socialist Drift"
+ conservatism_drift:0 "Daily Conservative Drift"
+ liberalism_drift:0 "Dailt Liberal Drift"
+ authoritarian_democracy_drift:0 "Daily Authoritarian Democratic Drift"
+ futurism_drift:0 "Daily Futurist Drift"
+ the_others_drift:0 "Daily Inhuman Drift"
+ ultrastatism_drift:0 "Daily Ultra Statist Drift"
+
 #Despotism
  despotism:0"Despotic"
  despotism_noun:0"Despotism"

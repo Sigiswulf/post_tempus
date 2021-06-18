@@ -70,9 +70,11 @@ set_popularities = {
 }
 create_country_leader = {
 	name = "Francois Mitterand"
-	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	desc = "POLITICS_FRANCOIS_MITTERAND_DESC"
 	picture = "gfx/leaders/FRA/Francois_Mitterand.dds"
 	expire = "2020.1.1"
 	ideology = republican_dictatorship
-	traits = { }
+	traits = { 
+		emergency_powers
+	}
 }
