@@ -1,6 +1,7 @@
 leader_traits = {
 
 	#Generic
+	
 	emergency_powers = {
 		random = no
 		political_power_gain = 0.3
@@ -17,24 +18,152 @@ leader_traits = {
 		factor = 1
 					 }
 	}
+	
+	puppet_leader = {
+		random = no
+		political_power_factor = -0.3
+		ai_will_do = {
+		factor = 1
+					 }
+	}
+	
+	consortium = {
+		random = no
+		consumer_goods_factor = -0.1
+		offensive_war_stability_factor = -0.5
+		local_resources_factor = 0.3
+		ai_focus_peaceful_factor = 0.5
+		ai_will_do = {
+		factor = 1
+					 }
+	}
+	
+	magnate = {
+		random = no
+		consumer_goods_factor = -0.1
+		production_speed_buildings_factor = 0.10
+		offensive_war_stability_factor = -0.5
+		ai_focus_peaceful_factor = 0.5
+		ai_will_do = {
+		factor = 1
+					 }	
+	}
+	
+	military_administrator = {
+		random = no
+		political_power_factor = -0.10
+		stability_factor = -0.2
+		occupation_cost = -0.3
+		required_garrison_factor = -0.2
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	leftist_leanings = {
+		random = no
+		authoritarian_socialism_drift = 0.01
+		liberal_socialism_drift = 0.01
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	rightist_leanings = {
+		random = no
+		fascism_drift = 0.01
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	libertarian_leanings = {
+		random = no
+		liberalism_drift = 0.01
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	conservative_leanings = {
+		random = no
+		conservatism_drift = 0.01
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	centrist_leanings = {
+		random = no
+		despotism_drift = 0.01
+		authoritarian_democracy_drift = 0.01
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	futurist_leanings = {
+		random = no
+		futurism_drift = 0.01
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	corrupt = {
+		random = no
+		consumer_goods_factor = 0.2
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
 	#Iberian
 	
+	franco_successor = {
+		random = no
+		political_power_gain = 0.10
+		fascism_drift = 0.05
+	}
+	
 	#French
+	
 	marxist_champion = {
 		random = no
 		authoritarian_socialism_drift = 0.05
-		opinion_gain_monthly_same_ideology_factor = -0.10
+		opinion_gain_monthly_same_ideology_factor = -0.50
 	}
 	
 	lowlands_menace = {
 		random = no
 		despotism_drift = 0.05
 		war_support_factor = 0.15
-		offensive_war_stability_factor = - 0.10
+		offensive_war_stability_factor = 0.10
 		ai_focus_aggressive_factor = 0.6
 		ai_will_do = {
 		factor = 1
 					 }
+	}
+	
+	anarchist_philosopher = {
+		random = no
+		liberal_socialism_drift = 0.20
+		drift_defence_factor = 0.5
+		ai_focus_defense_factor = 0.50
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	
+	league_of_intellectuals = {
+		random = no
+		research_speed_factor = 0.05
+		stability_weekly = 0.05
+		war_support_factor = -0.4
+		ai_focus_peaceful_factor = 0.5
+		ai_will_do = {
+		factor = 1
+		}
 	}
 	
 }

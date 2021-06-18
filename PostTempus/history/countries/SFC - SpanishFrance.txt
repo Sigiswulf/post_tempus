@@ -37,4 +37,6 @@ create_country_leader = {
 	picture = "gfx/leaders/SPN/Alfonso_Pardo.dds"
 	expire = "2020.1.1"
 	ideology = military_dictatorship
+	traits = { 
+	}
 }

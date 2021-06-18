@@ -37,4 +37,7 @@ create_country_leader = {
 	picture = "gfx/leaders/FRA/Jacques_Saadé.dds"
 	expire = "2020.1.1"
 	ideology = corporatocracy 
+	traits = {
+		magnate
+	}
 }

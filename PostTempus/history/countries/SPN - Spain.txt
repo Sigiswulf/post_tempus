@@ -185,7 +185,9 @@ create_country_leader = {
 	picture = "gfx/leaders/SPN/Antonio_Tejero.dds"
 	expire = "2020.1.1"
 	ideology = falangism
-	traits = { }
+	traits = {
+		franco_successor
+	}
 }
 ### VARIANTS ###
 # 1936 Start #

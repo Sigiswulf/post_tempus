@@ -72,7 +72,7 @@ set_stability = 0.75
 		expire = "2020.1.1"
 		ideology = falangism
 		traits = {
-			#
+			leftist_leanings
 		}
 	}
 ### VARIANTS ###

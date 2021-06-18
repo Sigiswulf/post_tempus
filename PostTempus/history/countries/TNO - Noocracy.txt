@@ -74,5 +74,7 @@ create_country_leader = {
 	picture = "gfx/leaders/FRA/Council_for_Intellectual_Advancement_of_umanity.dds"
 	expire = "2020.1.1"
 	ideology = esoteric_futurism 
-	traits = { }
+	traits = { 
+	league_of_intellectuals
+	}
 }
