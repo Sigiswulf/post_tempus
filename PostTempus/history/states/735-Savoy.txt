@@ -4,11 +4,11 @@ state={
 	name="STATE_735"
 
 	history={
+		owner = OCR
 		buildings = {
 			infrastructure = 4
-
 		}
-
+		add_core_of = OCR
 	}
 
 	provinces={
