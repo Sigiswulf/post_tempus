@@ -57,6 +57,30 @@ if = {
 		mtg_transport = 1
 	}
 }
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = DNA
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = DNA
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = DNP
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = DNP
+	}
+}
 set_politics = {
 	ruling_party = despotism
 	last_election = "1933.2.16"
