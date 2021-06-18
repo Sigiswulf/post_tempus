@@ -115,3 +115,27 @@ BHP = {
 	color = rgb { 68 115 127 }
 	colour_ui = rgb { 89 149 165 }
 }
+TNO = {
+	color = rgb { 126 128 175 }
+	colour_ui = rgb { 126 128 175 }
+}
+SSP = {
+	color = rgb { 193 79 79 }
+	colour_ui = rgb { 193 79 79 }
+}
+FNR = {
+	color = rgb { 33 84 30 }
+	colour_ui = rgb { 193 79 79 }
+}
+KOF = {
+	color = rgb { 160 86 105 }
+	colour_ui = rgb { 160 86 105 }
+}
+DNA = {
+	color = rgb { 98 82 114 }
+	colour_ui = rgb { 98 82 114 }
+}
+DNP = {
+	color = rgb { 135 81 75 }
+	colour_ui = rgb { 135 81 75 }
+}
