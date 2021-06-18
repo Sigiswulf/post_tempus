@@ -1,0 +1,31 @@
+state={
+	id=841
+	name="STATE_841"
+	resources={
+		steel=8
+		aluminium=11
+		chromium=5
+		tungsten=15
+	}
+
+	history={
+		victory_points = {
+			6780 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+
+	}
+
+	provinces={
+		611 776 3782 6635 6780 9738 11570 
+	}
+	manpower=2363739
+	buildings_max_level_factor=1.000
+	state_category = city
+}

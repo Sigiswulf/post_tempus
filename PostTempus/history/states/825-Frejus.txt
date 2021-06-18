@@ -4,6 +4,19 @@ state={
 	history = {
 		owner = FTC
 		add_core_of = FTC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+
+			3928 = {
+				naval_base = 3
+			}
+			3928 = {
+				bunker = 2
+			}
+		}
 	}
 	provinces={
 		3928 

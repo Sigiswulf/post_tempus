@@ -1,0 +1,25 @@
+state={
+	id=838
+	name="STATE_838"
+	resources = {
+		steel = 8
+	}
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = SWI
+
+	}
+
+	provinces={
+		3612 9587 
+	}
+	manpower=367198
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
