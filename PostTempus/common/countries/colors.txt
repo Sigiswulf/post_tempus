@@ -139,3 +139,7 @@ DNP = {
 	color = rgb { 135 81 75 }
 	colour_ui = rgb { 135 81 75 }
 }
+OCR = {
+	color = rgb { 206 106 95 }
+	colour_ui = rgb { 206 106 95 }
+}

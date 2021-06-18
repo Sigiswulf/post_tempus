@@ -159,3 +159,8 @@
  DNP:0 "New Paris"
  DNP_DEF:0 "New Paris"
  DNP_ADJ:0 "New Parisian"
+ OCR_conservatism:1 "Occitanian Republic"
+ OCR_conservatism_DEF:1 "the Occitanian Republic"
+ OCR:0 "Occitinia"
+ OCR_DEF:0 "Occitinia"
+ OCR_ADJ:0 "Occitanian"
