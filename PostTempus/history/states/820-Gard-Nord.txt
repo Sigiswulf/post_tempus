@@ -3,7 +3,8 @@ state={
 	name="STATE_820"
 
 	history = {
-		
+		owner = DNA
+		add_core_of = DNA
 	}
 
 	provinces={
