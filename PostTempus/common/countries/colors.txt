@@ -96,7 +96,7 @@ TCN = {
 	colour_ui = rgb { 90 62 100 }
 }
 SAR = {
-	color = rgb { 189 45 136 }
+	color = rgb { 154 123 165 }
 	colour_ui = rgb { 189 45 136 }
 }
 FRA = {
@@ -112,6 +112,6 @@ FEA = {
 	colour_ui = rgb { 181 60 47 }
 }
 BHP = {
-	color = rgb { 89 149 165 }
+	color = rgb { 68 115 127 }
 	colour_ui = rgb { 89 149 165 }
 }

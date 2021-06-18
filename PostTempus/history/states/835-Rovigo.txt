@@ -1,0 +1,24 @@
+state={
+	id=835
+	name="STATE_835"
+
+	history={
+		
+		buildings = {
+			infrastructure = 2
+			9582 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		9582 
+	}
+	manpower=149731
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

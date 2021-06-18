@@ -3,4 +3,4 @@
 graphical_culture = southamerican_gfx
 graphical_culture_2d = southamerican_2d
 
-color = { 89 149 165 }
+color = rgb { 89 149 165 }
