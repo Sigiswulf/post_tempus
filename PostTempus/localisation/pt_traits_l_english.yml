@@ -1,17 +1,4 @@
 ﻿l_english:
 #Traits Generic
-    emergency_powers:0 "Emergency Powers"
-    puppet_leader:0 "Puppet Leader"
-    consortium:0 "Consortium"
-    magnate:0 "Magnate"
-    leftist_leanings:0 "Leftist Leanings"
-    rightist_leanings:0 "Rightist Leanings"
-    libertarian_leanings:0 "libertarian Leanings"
-    conservative_leanings:0 "Conservative Leanings"
-    centrist_leanings:0 "Centrist Leanings"
-    futurist_leanings:0 "Futurist Leanings"
-    corrupt:0 "Corrupt"
 #Traits Iberian
 #Traits French
-    lowlands_menace:0 "Menace of the Lowlands"
-    marxist_champion:0 "Champion of Marxism" 

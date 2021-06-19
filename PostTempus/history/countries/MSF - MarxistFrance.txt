@@ -76,7 +76,5 @@ create_country_leader = {
 	expire = "2020.1.1"
 	ideology = marxist_leninism
 	traits = { 
-		paranoid
-		marxist_champion
 	}
 }

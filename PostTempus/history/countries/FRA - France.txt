@@ -75,6 +75,5 @@ create_country_leader = {
 	expire = "2020.1.1"
 	ideology = republican_dictatorship
 	traits = { 
-		emergency_powers
 	}
 }
