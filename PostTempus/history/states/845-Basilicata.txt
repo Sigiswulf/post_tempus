@@ -1,0 +1,21 @@
+state={
+	id=845
+	name="STATE_845"
+
+	history={
+		
+		buildings = {
+			infrastructure = 3
+			
+
+		}
+
+	}
+
+	provinces={
+		3958 3968 6972 9856 
+	}
+	manpower=423647
+	buildings_max_level_factor=1.000
+	state_category = town
+}
