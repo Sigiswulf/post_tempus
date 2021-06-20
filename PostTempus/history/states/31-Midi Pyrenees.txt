@@ -7,7 +7,10 @@ state={
 		owner = SFC
 		add_core_of = SFC
 		victory_points = {
-			6766 5 
+			6766 15 
+		}
+		victory_points = {
+			9853 5
 		}
 		buildings = {
 			infrastructure = 6

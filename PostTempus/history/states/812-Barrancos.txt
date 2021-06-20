@@ -4,6 +4,11 @@ state={
 
 	history = {
 		owner = BRD
+
+			victory_points = {
+				13240 5
+			}
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

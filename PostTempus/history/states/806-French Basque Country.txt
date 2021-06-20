@@ -11,8 +11,9 @@ state={
 	history={
 		owner = BSQ
 		add_core_of = BSQ
+
 		victory_points = {
-			9710 3 
+			743 5
 		}
 		
 		buildings = {

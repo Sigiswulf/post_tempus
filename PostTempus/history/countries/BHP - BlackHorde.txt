@@ -1,4 +1,4 @@
-﻿capital = 25
+﻿capital = 18
 
 oob = ""
 if = {

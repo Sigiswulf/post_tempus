@@ -4,6 +4,11 @@ state={
 
 	history = {
 		owner = ELD
+
+			victory_points = {
+					13239 5
+			}
+
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

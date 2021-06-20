@@ -4,6 +4,11 @@ state={
 
 	history = {
 		owner = BCD
+
+			vicory_points = {
+					13237 5
+			}
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
