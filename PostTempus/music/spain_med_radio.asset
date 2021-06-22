@@ -1,0 +1,134 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.65
+}
+
+# Radio Songs
+music = {
+	name = "balladofjohnandyoko"
+	file = "balladofjohnandyoko.ogg"
+	volume = 0.65
+}
+music = {
+	name = "barkays"
+	file = "barkays.ogg"
+	volume = 0.65
+}
+music = {
+	name = "callatenina"
+	file = "callatenina.ogg"
+	volume = 0.65
+}
+music = {
+	name = "candida"
+	file = "candida.ogg"
+	volume = 0.65
+}
+music = {
+	name = "congratulations"
+	file = "congratulations.ogg"
+	volume = 0.65
+}
+music = {
+	name = "delilah"
+	file = "delilah.ogg"
+	volume = 0.65
+}
+music = {
+	name = "elcondorpasa"
+	file = "elcondorpasa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "eloise"
+	file = "eloise.ogg"
+	volume = 0.65
+}
+music = {
+	name = "getback"
+	file = "getback.ogg"
+	volume = 0.65
+}
+music = {
+	name = "getonyourknees"
+	file = "getonyourknees.ogg"
+	volume = 0.65
+}
+music = {
+	name = "gwendolyne"
+	file = "gwendolyne.ogg"
+	volume = 0.65
+}
+music = {
+	name = "hellogoodbye"
+	file = "hellogoodbye.ogg"
+	volume = 0.65
+}
+music = {
+	name = "himnoalaalagria"
+	file = "himnoalaalagria.ogg"
+	volume = 0.65
+}
+music = {
+	name = "intheghetto"
+	file = "intheghetto.ogg"
+	volume = 0.65
+}
+music = {
+	name = "inthesummertime"
+	file = "inthesummertime.ogg"
+	volume = 0.65
+}
+music = {
+	name = "intheyear2525"
+	file = "intheyear2525.ogg"
+	volume = 0.65
+}
+music = {
+	name = "lalala"
+	file = "lalala.ogg"
+	volume = 0.65
+}
+music = {
+	name = "mamamama"
+	file = "mamamama.ogg"
+	volume = 0.65
+}
+music = {
+	name = "patapata"
+	file = "patapata.ogg"
+	volume = 0.65
+}
+music = {
+	name = "sugarsugar"
+	file = "sugarsugar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "tequierotequiero"
+	file = "tequierotequiero.ogg"
+	volume = 0.65
+}
+music = {
+	name = "thosewerethedays"
+	file = "thosewerethedays.ogg"
+	volume = 0.65
+}
+music = {
+	name = "unrayodesol"
+	file = "unrayodesol.ogg"
+	volume = 0.65
+}
+music = {
+	name = "venus"
+	file = "venus.ogg"
+	volume = 0.65
+}
+music = {
+	name = "yellowriver"
+	file = "yellowriver.ogg"
+	volume = 0.65
+}
