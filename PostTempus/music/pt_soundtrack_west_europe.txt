@@ -1,0 +1,286 @@
+
+music_station = "pt_soundtrack_west_europe"
+
+# SOUNDTRACK SONGS ##################
+music = {
+	song = "albion"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+			TAG = SPN
+		}	
+	}	
+}
+
+music = {
+	song = "anvil"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "beheaded"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+			TAG = SPN
+		}	
+	}	
+}
+
+music = {
+	song = "bellontheinside"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "eagleclaw"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "fountain"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "interrogation"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "invasionofpanama"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+			TAG = SPN
+		}		
+	}	
+}
+
+music = {
+	song = "movesoldier"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "newbeginnings"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "panthers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "parliament"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "punchthrough"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "room27b"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "satcom"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "searching"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "slayem"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "stakeout"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "surveying"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "theinformant"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "throughthetunnels"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "undercover"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "virus"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			has_war = no
+		}		
+		modifier = {
+			factor = 2
+			has_war = yes
+		}		
+	}	
+}
