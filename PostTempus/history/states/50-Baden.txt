@@ -14,29 +14,20 @@ state={
 		victory_points = {
 			11499 3 #10
 		}
-		#victory_points = {
-		#	3530 10
-		#}
-		#victory_points = {
-		#	11640 1
-		#}
-		#victory_points = {
-		#	6712 3
-		#}
+		victory_points = {
+			3530 10
+		}
+		victory_points = {
+			11640 1
+		}
+		victory_points = {
+			6712 3
+		}
 		buildings = {
 			infrastructure = 8
 			arms_factory = 5
 			industrial_complex = 1
 			air_base = 3
-
-		}
-		
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 11
-				industrial_complex = 3
-
-			}
 
 		}
 

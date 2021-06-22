@@ -14,11 +14,6 @@ state={
 		victory_points = {
 			3992 3 
 		}
-		1938.10.25 = {
-
-
-		}
-
 	}
 
 	provinces={
