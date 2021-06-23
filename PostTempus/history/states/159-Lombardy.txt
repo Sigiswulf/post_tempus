@@ -8,20 +8,21 @@ state={
 	}
 
 	history={
+		owner = PFS
 		buildings = {
 			infrastructure = 5
 			arms_factory = 4
-			industrial_complex = 1
+			industrial_complex = 3
 			air_base = 4
 
 		}
-
+		add_core_of = PFS
 	}
 
 	provinces={
 		603 773 969 3776 6661 9584 11568 11587 
 	}
 	manpower=3042630
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.5
 	state_category=large_town
 }
