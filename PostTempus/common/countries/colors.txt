@@ -143,3 +143,15 @@ OCR = {
 	color = rgb { 206 106 95 }
 	colour_ui = rgb { 206 106 95 }
 }
+DRP = {
+	color = rgb { 79 163 152 }
+	colour_ui = rgb { 79 163 152 }
+}
+IRL = {
+	color = rgb { 119 113 89 }
+	colour_ui = rgb { 119 113 89 }
+}
+PFS = {
+	color = rgb { 122 73 112 }
+	colour_ui = rgb { 122 73 112 }
+}
