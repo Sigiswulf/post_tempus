@@ -1,0 +1,43 @@
+﻿capital = 813
+
+oob = ""
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = ""
+	else = {
+		set_naval_oob = ""
+	}
+}
+
+set_research_slots = 0
+
+set_technology = {
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+	}
+}
+set_politics = {
+	ruling_party = the_others
+	last_election = "1933.2.16"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+set_popularities = {
+	the_others = 100
+}
+create_country_leader = {
+	name = "No Authority"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = feral
+	traits = { }
+}

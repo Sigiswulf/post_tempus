@@ -1,4 +1,5 @@
 ##Post Tempus
+WSL = "countries/Wastelands.txt"
 SPN = "countries/Spain.txt"
 PRT = "countries/Portugal.txt"
 SFC = "countries/SpanishFrance.txt"
