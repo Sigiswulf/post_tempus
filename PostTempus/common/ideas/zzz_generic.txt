@@ -9,7 +9,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -26,7 +26,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_core_attack_factor = 0.10
@@ -47,7 +47,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -64,7 +64,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -81,7 +81,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -98,7 +98,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -116,7 +116,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_core_attack_factor = 0.10
@@ -135,7 +135,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_core_attack_factor = 0.20
@@ -153,7 +153,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_core_defence_factor = 0.20
@@ -170,7 +170,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_core_defence_factor = 0.10
@@ -188,7 +188,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_core_defence_factor = 0.30
@@ -206,7 +206,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -223,7 +223,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 
 			
 			modifier = {
@@ -240,7 +240,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_defence_factor = 0.30
@@ -258,7 +258,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_defence_factor = -0.20
@@ -278,7 +278,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				war_support_factor = -0.30
@@ -295,7 +295,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				encryption_factor = 1.00
@@ -311,7 +311,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				army_defence_factor = 0.20
@@ -329,7 +329,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				consumer_goods_factor = 0.20
@@ -347,7 +347,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				consumer_goods_factor = 0.20
@@ -366,7 +366,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				consumer_goods_factor = -0.10
@@ -385,7 +385,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = 
+			#picture = 
 			
 			modifier = {
 				consumer_goods_factor = 0.20
