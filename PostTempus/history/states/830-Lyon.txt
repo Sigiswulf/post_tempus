@@ -1,22 +1,25 @@
+
 state={
 	id=830
 	name="STATE_830"
-	history = {
-		owner = ORN
-		add_core_of = ORN
+
+	history={
+		owner = WSL
+		add_core_of = WSL
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			air_base = 4
+			infrastructure = 0
+
 		}
 		victory_points = {
 			6613 10 
 		}
+
 	}
+
 	provinces={
-		6613 11593 11794 
+		6613 
 	}
-	manpower=581358
+	manpower=252704
 	buildings_max_level_factor=1.000
-	state_category = large_town
+	state_category=wasteland
 }

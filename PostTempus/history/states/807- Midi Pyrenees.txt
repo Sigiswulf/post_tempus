@@ -15,13 +15,14 @@ state={
 
 		}
 		add_core_of = AQU
+		victory_points = {807 3}
 
 	}
 
 	provinces={
 		929 3740 6759 9717 9884 11697 11699 
 	}
-	manpower=200000
+	manpower=694341
 	buildings_max_level_factor=1.000
 	state_category=town
 }

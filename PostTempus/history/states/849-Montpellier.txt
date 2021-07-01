@@ -1,0 +1,24 @@
+state={
+	id=849
+	name="STATE_849"
+
+	history={
+		owner = WSL
+		victory_points = {
+			9898 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = WSL
+
+	}
+
+	provinces={
+		9898 
+	}
+	manpower=155347
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

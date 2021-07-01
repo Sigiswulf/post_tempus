@@ -9,9 +9,6 @@ state={
 
 	history={
 		owner = SSP
-		victory_points = {
-			9898 1 
-		}
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2
@@ -19,12 +16,13 @@ state={
 
 		}
 		add_core_of = SSP
+
 	}
 
 	provinces={
-		760 3751 3754 6960 6962 9723 9898 11709 
+		760 3751 3754 6960 6962 9723 11709 
 	}
-	manpower=1691200
+	manpower=1535853
 	buildings_max_level_factor=1.000
 	state_category=town
 }
