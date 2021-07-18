@@ -1,4 +1,4 @@
-﻿capital = 19
+﻿capital = 161
 
 oob = ""
 if = {
@@ -12,6 +12,7 @@ if = {
 set_research_slots = 3
 
 set_technology = {
+
 }
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
@@ -24,26 +25,21 @@ if = {
 	}
 }
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = fascism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = no
 }
-add_ideas = {
-	lost_expedition
-}
+
 set_popularities = {
-	conservatism = 64
+	fascism = 64
 	liberalism = 36
 }
-
-set_convoys = 150
-set_stability = 0.5
 create_country_leader = {
-	name = "Virginie Calmels"
+	name = "Gianfranco Fini"
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
-	picture = "gfx/leaders/FRA/Virginie_Calmels.dds"
+	picture = "gfx/leaders/ITA/Gianfranco_Fini.dds"
 	expire = "2020.1.1"
-	ideology = social_conservatism
+	ideology = esoteric_fascism
 	traits = { }
 }

@@ -34,7 +34,9 @@ set_popularities = {
 	liberal_socialism = 64
 	liberalism = 36
 }
-
+add_ideas = {
+	lost_expedition
+}
 set_stability = 0.5
 create_country_leader = {
 	name = "Alexander Grothendieck"

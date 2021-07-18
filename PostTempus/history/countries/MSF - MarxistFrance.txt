@@ -29,7 +29,9 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
-
+add_ideas = {
+	lost_expedition
+}
 set_popularities = {
 	authoritarian_socialism = 64
 	liberalism = 36

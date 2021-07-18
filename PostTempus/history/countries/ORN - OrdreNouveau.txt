@@ -13,6 +13,9 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+add_ideas = {
+	lost_expedition
+}
 set_popularities = {
 	fascism = 50
 	conservatism = 46
