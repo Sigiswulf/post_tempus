@@ -3,6 +3,8 @@ state={
 	name="STATE_842"
 
 	history={
+		owner = NAV
+		add_core_of = NAV
 		victory_points = {
 			6606 3 
 		}

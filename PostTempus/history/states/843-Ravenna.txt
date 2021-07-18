@@ -3,6 +3,8 @@ state={
 	name="STATE_843"
 
 	history={
+		owner = ARN
+		add_core_of = ARN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
