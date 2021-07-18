@@ -155,3 +155,33 @@ PFS = {
 	color = rgb { 122 73 112 }
 	colour_ui = rgb { 122 73 112 }
 }
+MDB = {
+	color = rgb { 109 228 255 }
+	colour_ui = rgb { 109 228 255 }
+}
+RAI = {
+	color = rgb { 129 228 255 }
+	colour_ui = rgb { 129 228 255 }
+}
+ONR = {
+	color = rgb { 198 228 255 }
+	colour_ui = rgb { 198 228 255 }
+}
+ARN = {
+	color = rgb { 181 26 47 }
+	color_ui = rgb { 181 26 47 }
+}
+
+INR = {
+	color = rgb { 181 29 47 }
+	color_ui = rgb { 181 29 47 }
+}
+
+NAV = {
+	color = rgb { 181 39 47 }
+	color_ui = rgb { 181 39 47 }
+}
+SIR = {
+	color = rgb { 44 142 52 }
+	color_ui = rgb { 44 142 52 }
+}

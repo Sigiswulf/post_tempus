@@ -1,0 +1,28 @@
+ideas = {
+
+	country = {
+		lost_expedition = {
+			picture = idea_lost_expedition
+			allowed = {
+				tag = OCR
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				war_support_factor = 0.05
+				targeted_modifier = {
+					tag = FRA
+					attack_bonus_against = 0.10
+				}
+				targeted_modifier = {
+					tag = FRA
+					defense_bonus_against = 0.10
+				}
+			}
+		}
+}
