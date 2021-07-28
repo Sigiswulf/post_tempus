@@ -35,9 +35,9 @@ set_popularities = {
 	despotism = 36
 }
 create_country_leader = {
-	name = "Benedetto Della Vedova"
+	name = "Umberto_Bossi"
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
-	picture = "gfx/leaders/ITA/Benedetto_Della_Vedova.dds"
+	picture = "gfx/leaders/ITA/Umberto_Bossi.dds"
 	expire = "2020.1.1"
 	ideology = neoliberalism  
 	traits = { }

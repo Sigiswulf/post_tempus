@@ -36,7 +36,7 @@ set_popularities = {
 }
 create_country_leader = {
 	name = "Pierre Sidos"
-	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	desc = "POLITICS_PIERE_SIDOS_DESC"
 	picture = "gfx/leaders/FRA/Pierre_Sidos.dds"
 	expire = "2020.1.1"
 	ideology = national_socialism
