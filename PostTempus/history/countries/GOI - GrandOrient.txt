@@ -1,0 +1,44 @@
+﻿capital = 837
+
+oob = ""
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = ""
+	else = {
+		set_naval_oob = ""
+	}
+}
+
+set_research_slots = 3
+
+set_technology = {
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+	}
+}
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.2.16"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 64
+	liberalism = 36
+}
+create_country_leader = {
+	name = "Gustavo Raffi"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/ITA/Gustavo_Raffi.dds"
+	expire = "2020.1.1"
+	ideology = esoteric_fascism 
+	traits = {
+	}
+}
