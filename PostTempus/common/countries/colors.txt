@@ -185,3 +185,19 @@ SIR = {
 	color = rgb { 44 142 52 }
 	color_ui = rgb { 44 142 52 }
 }
+GOI = {
+	color = rgb { 44 28 52 }
+	color_ui = rgb { 44 28 52 }
+}
+SCU = {
+	color = rgb { 276 113 72 }
+	color_ui = rgb { 276 113 72 }
+}
+CAM = {
+	color = rgb { 155 111 104 }
+	color_ui = rgb { 155 111 104 }
+}
+NDR = {
+	color = rgb { 138 193 129 }
+	color_ui = rgb { 138 193 129 }
+}
