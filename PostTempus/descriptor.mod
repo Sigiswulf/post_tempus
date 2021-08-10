@@ -11,7 +11,7 @@ tags={
 	"National Focuses"
 }
 name="Post Tempus"
-supported_version="1.10.7"
+supported_version="1.10.8"
 replace_path="events"
 replace_path="map/strategicregions"
 replace_path="common/abilities"

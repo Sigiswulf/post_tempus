@@ -173,7 +173,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_ideology_ultra_militarism"
-		texturefile = "gfx/interface/ideologies/Ultra-militarism.dds"
+		texturefile = "gfx/interface/ideologies/Ultra_militarism.dds"
 	}
 	SpriteType = {
 		name = "GFX_ideology_egoism"
