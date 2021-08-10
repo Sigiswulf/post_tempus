@@ -43,7 +43,7 @@ set_convoys = 100
 set_stability = 0.75
 
 	create_country_leader = {
-		name = "Antonio Spinala"
+		name = "Antonio de Spinola"
 		desc = "POLITICS_FRANSISCO_BARCELOS_ROLAO_PRETO_DESC"
 		picture = "gfx/leaders/SPN/Antonio_Spinala.dds"
 		expire = "2020.1.1"
