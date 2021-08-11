@@ -16,14 +16,102 @@ set_politics = {
 }
 set_popularities = {
 	authoritarian_democracy = 50
-	conservatism = 46
-	futurism = 4
+	despotism = 46
+	conservatism = 4
 }
 create_country_leader = {
 	name = "Jean-Christophe"
 	picture = "gfx/leaders/FRA/Jean_Christophe.dds"
 	expire = "2020.1.1"
 	ideology = constitutional_monarchy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Aurélien Barreau"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = fascism_sub
+	traits = {
+	}
+	
+create_country_leader = {
+	name = "Dominique Bucchini"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = trotskyism
+	traits = {
+	}
+
+create_country_leader = {
+	name = "Napoleon VII"
+	picture = "gfx/leaders/FRA/Jean_Christophe.dds"
+	expire = "2020.1.1"
+	ideology = absolute_monarchy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Nathan Gainsbourg"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = religious_socialism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Camille de Rocca Serra"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neoconservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean-Guy Talamoni"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = classical_liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Adrien Dufour"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = utopianism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Emperor Vel'dro-nikilniolovi"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = xeno
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "The Hydra"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = ultra_militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Lucas Jacquemoud"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = egoism
 	traits = {
 	}
 }

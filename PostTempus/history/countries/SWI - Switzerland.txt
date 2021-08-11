@@ -42,6 +42,105 @@ create_country_leader = {
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
 	picture = "gfx/leaders/FRA/Pascal_Couchepin.dds"
 	expire = "2020.1.1"
-	ideology = neoconservatism
+	ideology = classical_liberalism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Pascal Couchepin"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = military_dictatorship
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Dominic Lüthard"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = national_socialism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Massimiliano Arif Ay"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = marxist_leninism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Ursula Koch"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = democratic_socialism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Ursula Koch"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = reactionary
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Ernesto Bertarelli"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = corporatocracy
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Jolanda Treuthard"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = utopianism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Jolanda Treuthard"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = utopianism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "The Alpine Horror"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = eldritch
+	traits = { }
+}
+
+create_country_leader = {
+	name = "The Genevan Convent"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = ultrastatism_sub
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Göpf Von Bergen"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = old_libertarianism
 	traits = { }
 }

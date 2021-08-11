@@ -14,9 +14,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	despotism = 50
-	conservatism = 46
-	futurism = 4
+	despotism = 70
+	authoritarian_democracy = 20
+	ultrastatism = 10
 }
 create_country_leader = {
 	name = "Herve Charpentier"
@@ -24,6 +24,106 @@ create_country_leader = {
 	picture = "gfx/leaders/FRA/Herve_Charpentier.dds"
 	expire = "2020.1.1"
 	ideology = military_dictatorship
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jasmin Lémery"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = national_socialism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Armed Resistance Councils"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = marxist_leninism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Norman Anarchist Communes"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = anarchism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Alain Tourret"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neoconservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Véronique Louwagie"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neoliberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Elrick Irastorza"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = oligarchy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Engilbert II"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = futurism_sub
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "The Consuming Scar"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = eldritch
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Pierre Steinmetz"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = securocracy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Michèle Alliot-Marie"
+	desc = ""
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neolibertarianism
 	traits = {
 	}
 }

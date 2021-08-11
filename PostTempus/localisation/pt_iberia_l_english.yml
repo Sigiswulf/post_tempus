@@ -1,5 +1,7 @@
 ﻿l_english:
 #Parties
+ SFC_despotism_party:0 "Legión Pirineo"
+ SFC_despotism_party_long:0 "Legión Pirineo"
  SPN_fascism_party:0 "FET y de las JONS"
  SPN_fascism_party_long:0 "Falange Española Tradicionalista y de las Juntas de Ofensiva Nacional Sindicalista"
  SPN_futurism_party:0 "Ultraísmo Iberia"
