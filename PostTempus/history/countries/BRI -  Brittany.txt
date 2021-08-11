@@ -16,7 +16,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 50
 	conservatism = 46
-	futurism = 4
+	liberalism = 4
 }
 create_country_leader = {
 	name = "Edmon Herve"

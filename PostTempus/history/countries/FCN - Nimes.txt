@@ -29,3 +29,93 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+create_country_leader = {
+	name = "Mathéo Brousseau"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = military_dictatorship 
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Thaddée Vaugrenard"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = corporatism 
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wilfrid Delafose"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = stalinism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wilfrid Delafose"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = market_socialism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean Bousquet"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = social_conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean-Paul Fournier"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = classical_liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Fifth Council of Nîmes"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = esoteric_futurism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "No Authourity"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = feral
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Titus Aelius Hadrianus Antoninus Pius II"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = ultrastatism_sub
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "The One Teacher"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = egoism
+	traits = {
+	}
+}

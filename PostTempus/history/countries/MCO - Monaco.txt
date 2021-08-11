@@ -34,11 +34,102 @@ set_popularities = {
 	authoritarian_democracy = 64
 	liberalism = 36
 }
+
+create_country_leader = {
+	name = "Rainier III"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/FRA/Rainier_iii.dds"
+	expire = "2020.1.1"
+	ideology = absolute_monarchy
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Théo Dubost"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = falangism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Jérôme Guilbert"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = marxist_leninism
+	traits = { }
+}
+
 create_country_leader = {
 	name = "Rainier III"
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
 	picture = "gfx/leaders/FRA/Rainier_iii.dds"
 	expire = "2020.1.1"
 	ideology = constitutional_monarchy 
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Lucas Verninac"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = market_socialism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Jean-Louis Campora"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neoconservatism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Stéphane Valeri"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = social_liberalism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Ilonna Laframboise"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = futurism_sub
+	traits = { }
+}
+
+create_country_leader = {
+	name = "No Authourity"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = feral
+	traits = { }
+}
+
+create_country_leader = {
+	name = "The Sovereign"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = ultra_militarism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Union Monégasque des Entreprises"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = old_libertarianism
 	traits = { }
 }

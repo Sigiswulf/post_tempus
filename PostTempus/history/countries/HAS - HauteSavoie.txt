@@ -34,11 +34,102 @@ set_popularities = {
 	conservatism = 64
 	liberalism = 36
 }
+
+create_country_leader = {
+	name = "Savoyard Freebooters"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = kratocracy
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Abraham Leclère"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = esoteric_fascism
+	traits = { }
+}
+
 create_country_leader = {
 	name = "Aldo C.Schellenberg"
 	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
 	picture = "gfx/leaders/FRA/Aldo_C_Schellenberg.dds"
 	expire = "2020.1.1"
 	ideology = social_conservatism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Édouard Boissieu"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = marxist_leninism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Élise Blaise"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = anarchism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "No Authourity"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = feral
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Pierre Hérisson"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = classical_liberalism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Léopold Jaubert"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = technocratic_democracy
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Benoît Vidal"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = apocalysm
+	traits = { }
+}
+
+create_country_leader = {
+	name = "The High Union of Arpitania"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = oligarchical_ollectivism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Régine Plouffe"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neolibertarianism
 	traits = { }
 }
