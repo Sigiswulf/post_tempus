@@ -1,4 +1,9 @@
 ﻿l_english:
+ SAR_fascism:1 "Sardinia"
+ SAR_fascism_DEF:1 "the Sardinian Free State"
+ SAR:0 "Sardinia"
+ SAR_DEF:0 "Sardinia"
+ SAR_ADJ:0 "Sardinian"
  DRP_liberal_socialism:0 "Piedmont"
  DRP_liberal_socialism_DEF:0 "the Democratic People’s Republic of Piedmont"
  DRP:0 "Piedmont"

@@ -23,5 +23,81 @@ create_country_leader = {
 	name = "Elie Brun"
 	picture = "gfx/leaders/FRA/Elie_Brun.dds"
 	expire = "2020.1.1"
-	ideology = social_liberalism 
+	ideology = classical_liberalism 
 }
+
+create_country_leader = {
+	name = "Timothée Chevotet"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = technocratic_dictatorship
+}
+
+create_country_leader = {
+	name = "Entreprises Unifiées Fréjus"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = corporatism
+}
+
+create_country_leader = {
+	name = "The Red Council"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = marxist_leninism
+}
+
+create_country_leader = {
+	name = "Conseil Economique et de Développement Socialiste"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = market_socialism
+}
+
+create_country_leader = {
+	name = "David Rachline"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neoconservatism
+}
+
+create_country_leader = {
+	name = "Entreprises Unifiées Fréjus"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = corporatocracy
+}
+
+create_country_leader = {
+	name = "The Utopian Council"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = utopianism
+}
+
+create_country_leader = {
+	name = "No Authourity"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = feral
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Augustus III"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = ultrastatism_sub
+}
+
+create_country_leader = {
+	name = "The Free Council"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = minarchism
+}
+
+
+
+

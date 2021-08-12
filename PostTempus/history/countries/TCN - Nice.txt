@@ -41,6 +41,94 @@ create_country_leader = {
 	expire = "2020.1.1"
 	ideology = oligarchy 
 	traits = { 
-		consortium
+	}
+}
+
+create_country_leader = {
+	name = "Fabrice Beaubois"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = kratocracy 
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "Néo Noir"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = falangism 
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "Robert Georges Auguste Hue"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = trotskyism 
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "Laurence Trastour-Isnart"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neoconservatism
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "Bernard Brochand"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = classical_liberalism
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "Armand Fernandez"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = futurism_sub
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "The Board of Directors"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = oligarchical_ollectivism
+	traits = { 
+	}
+}
+
+create_country_leader = {
+	name = "No Authourity"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = "gfx/leaders/Misc/No_Authority.dds"
+	expire = "2020.1.1"
+	ideology = feral
+	traits = { }
+}
+
+create_country_leader = {
+	name = "People's Council"
+	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = minarchism
+	traits = { 
 	}
 }

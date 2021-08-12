@@ -27,3 +27,73 @@ create_country_leader = {
 	expire = "2020.1.1"
 	ideology = fascism_sub 
 }
+###PLACEHOLDER
+create_country_leader = {
+	name = "Henry de Lesquen"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = military_dictatorship
+}
+
+create_country_leader = {
+	name = "Nathalie Arthaud"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = trotskyism
+}
+
+create_country_leader = {
+	name = "Antoine Waechter"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = eco_socialism
+}
+
+create_country_leader = {
+	name = "Jean-Jack Queyranne"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = social_conservatism
+}
+
+create_country_leader = {
+	name = "Cécile Cukierman"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = social_liberalism
+}
+
+create_country_leader = {
+	name = "Alain Benoist"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = esoteric_futurism
+}
+
+create_country_leader = {
+	name = "Yvan Blot"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = oligarchy
+}
+
+create_country_leader = {
+	name = "Directive 232"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = xeno
+}
+
+create_country_leader = {
+	name = "The Gothic Highlords"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = ultrastatism_sub
+}
+
+create_country_leader = {
+	name = "Najat Vallaud-Belkacem"
+	picture = ""
+	expire = "2020.1.1"
+	ideology = neolibertarianism
+}
