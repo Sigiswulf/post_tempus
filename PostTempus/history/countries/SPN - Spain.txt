@@ -1,6 +1,9 @@
 ﻿capital = 41
 
 oob = ""
+
+recruit_character = SPN_blas_pinar
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = ""
@@ -145,15 +148,6 @@ set_popularities = {
 
 set_convoys = 150
 set_stability = 0.5
-create_country_leader = {
-	name = "Antonio Tejero"
-	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
-	picture = "gfx/leaders/SPN/Antonio_Tejero.dds"
-	expire = "2020.1.1"
-	ideology = falangism
-	traits = {
-	}
-}
 ### VARIANTS ###
 # 1936 Start #
 if = {
