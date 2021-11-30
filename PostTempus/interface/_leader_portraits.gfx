@@ -1,0 +1,11 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	### SPN
+
+	spriteType = {
+		name = "SPN_blas_pinar"
+		texturefile = "gfx/leaders/SPN/Portrait_Spain_Blas_Pinar.dds"
+	}
+}

@@ -1,0 +1,16 @@
+characters= {
+	SPN_blas_pinar={
+		name=SPN_blas_pinar
+		portraits={
+				civilian={
+					large = "gfx/leaders/SPN/Portrait_Spain_Blas_Pinar.dds"	
+				}
+			}
+			country_leader={
+				ideology=falangism
+				expire="2014.1.1.1"
+				id=-1
+			}
+	
+	}
+}
