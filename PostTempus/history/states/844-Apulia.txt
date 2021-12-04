@@ -3,7 +3,6 @@ state={
 	name="STATE_844"
 
 	history={
-		owner = SCU
 		victory_points = {
 			11837 15 
 		}
@@ -22,7 +21,6 @@ state={
 			}
 
 		}
-		add_core_of = SCU
 	}
 
 	provinces={

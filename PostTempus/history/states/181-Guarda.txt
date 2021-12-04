@@ -12,8 +12,6 @@ state={
 	}
 
 	history={
-		owner = PRT
-		add_core_of = PRT
 		victory_points = {
 			9787 1
 		}

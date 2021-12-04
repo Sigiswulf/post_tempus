@@ -76,7 +76,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -85,7 +85,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism= {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -211,7 +211,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -220,7 +220,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -346,7 +346,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -355,7 +355,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -481,7 +481,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -490,7 +490,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -626,7 +626,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -635,7 +635,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -761,7 +761,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -770,7 +770,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -896,7 +896,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		authoritarian_socialism = {
+		vanguardist_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"
@@ -905,7 +905,7 @@ continent = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_5_Leader.dds"
 			}
 		}
-		liberal_socialism = {
+		libertarian_socialism = {
 			male = {
 				#"gfx/leaders/Generics/Portrait_Generic_Male_1_Leader.dds"
 				#"gfx/leaders/Generics/Portrait_Generic_Male_2_Leader.dds"

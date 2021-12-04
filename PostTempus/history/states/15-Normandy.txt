@@ -7,7 +7,6 @@ state={
 	}
 
 	history={
-		owner = NOR
 		victory_points = {
 			6449 3 
 		}
@@ -22,7 +21,6 @@ state={
 			}
 
 		}
-		add_core_of = NOR
 
 	}
 

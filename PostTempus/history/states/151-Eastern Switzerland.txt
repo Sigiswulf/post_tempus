@@ -7,7 +7,6 @@ state={
 	}
 
 	history={
-		owner = SWI
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -16,7 +15,6 @@ state={
 		victory_points = {
 			663 10 
 		}
-		add_core_of = SWI
 
 	}
 

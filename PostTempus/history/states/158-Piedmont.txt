@@ -10,7 +10,6 @@ state={
 	}
 
 	history={
-		owner = DRP
 		victory_points = {
 			6788 10 
 		}
@@ -26,7 +25,6 @@ state={
 			}
 
 		}
-		add_core_of = DRP
 	}
 
 	provinces={

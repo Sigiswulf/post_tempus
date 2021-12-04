@@ -3,7 +3,6 @@ state={
 	name="STATE_812"
 
 	history = {
-		owner = BRD
 
 			victory_points = {
 				13240 5
@@ -14,7 +13,6 @@ state={
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		add_core_of = BRD
 	}
 	provinces={
 		13240 

@@ -33,7 +33,7 @@ set_politics = {
 }
 set_popularities = {
 	fascism = 60
-	liberal_socialism = 10
+	libertarian_socialism = 10
 	authoritarian_democracy = 10
 	despotism = 10
 	conservatism = 10

@@ -15,14 +15,15 @@ ideas = {
 			
 			modifier = {
 				war_support_factor = 0.05
-				targeted_modifier = {
-					tag = FRA
-					attack_bonus_against = 0.10
-				}
-				targeted_modifier = {
-					tag = FRA
-					defense_bonus_against = 0.10
-				}
+			}
+			targeted_modifier = {
+				tag = FRA
+				attack_bonus_against = 0.10
+			}
+			targeted_modifier = {
+				tag = FRA
+				defense_bonus_against = 0.10
 			}
 		}
+}
 }

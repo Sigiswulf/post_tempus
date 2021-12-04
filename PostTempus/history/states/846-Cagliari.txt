@@ -3,7 +3,6 @@ state={
 	name="STATE_846"
 
 		history={
-		owner = SAR
 		victory_points = {
 			11773 3 
 		}
@@ -18,7 +17,6 @@ state={
 			
 
 		}
-		add_core_of = SAR
 
 	}
 

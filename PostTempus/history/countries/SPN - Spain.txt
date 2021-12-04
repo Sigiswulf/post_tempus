@@ -4,6 +4,7 @@ oob = ""
 
 recruit_character = SPN_blas_pinar
 
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = ""

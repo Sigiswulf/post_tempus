@@ -2,8 +2,6 @@ state={
 	id=829
 	name="STATE_829"
 	history = {
-		owner = DNP
-		add_core_of = DNP
 	}
 	provinces={
 		764 3768 6609 6784 9745 

@@ -6,9 +6,6 @@ state={
 		victory_points = {
 			778 1 
 		}
-
-		owner = HAS
-		add_core_of = HAS
 	}
 	provinces={
 		778 9603 11573 

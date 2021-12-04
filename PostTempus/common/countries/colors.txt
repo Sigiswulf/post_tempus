@@ -41,7 +41,7 @@ PRT = {
 
 SWI = {
 	color = rgb { 175 80 70 }
-	colour_ui = rgb { 193 81 81 }
+	color_ui = rgb { 193 81 81 }
 }
 
 IND = {
@@ -69,103 +69,103 @@ ELD = {
 }
 AND = {
 	color = rgb { 193 103 83 }
-	colour_ui = rgb { 255 136 109 }
+	color_ui = rgb { 255 136 109 }
 }
 MCO = {
 	color = rgb { 160 0 0 }
-	colour_ui = rgb { 160 0 0 }
+	color_ui = rgb { 160 0 0 }
 }
 FCN = {
 	color = rgb { 255 122 45 }
-	colour_ui = rgb { 255 122 45 }
+	color_ui = rgb { 255 122 45 }
 }
 HAS = {
 	color = rgb { 255 122 45 }
-	colour_ui = rgb { 255 122 45 }
+	color_ui = rgb { 255 122 45 }
 }
 FTC = {
 	color = rgb { 90 62 96 }
-	colour_ui = rgb { 90 62 96 }
+	color_ui = rgb { 90 62 96 }
 }
 ORN = {
 	color = rgb { 165 77 43 }
-	colour_ui = rgb { 165 77 43 }
+	color_ui = rgb { 165 77 43 }
 }
 TCN = {
 	color = rgb { 90 62 100 }
-	colour_ui = rgb { 90 62 100 }
+	color_ui = rgb { 90 62 100 }
 }
 SAR = {
 	color = rgb { 154 123 165 }
-	colour_ui = rgb { 189 45 136 }
+	color_ui = rgb { 189 45 136 }
 }
 FRA = {
 	color = rgb { 40 74 175 }
-	colour_ui = rgb { 40 74 175 }
+	color_ui = rgb { 40 74 175 }
 }
 MSF = {
 	color = rgb { 150 27 13 }
-	colour_ui = rgb { 150 27 13 }
+	color_ui = rgb { 150 27 13 }
 }
 FEA = {
 	color = rgb { 181 60 47 }
-	colour_ui = rgb { 181 60 47 }
+	color_ui = rgb { 181 60 47 }
 }
 BHP = {
 	color = rgb { 68 115 127 }
-	colour_ui = rgb { 89 149 165 }
+	color_ui = rgb { 89 149 165 }
 }
 TNO = {
 	color = rgb { 126 128 175 }
-	colour_ui = rgb { 126 128 175 }
+	color_ui = rgb { 126 128 175 }
 }
 SSP = {
 	color = rgb { 193 79 79 }
-	colour_ui = rgb { 193 79 79 }
+	color_ui = rgb { 193 79 79 }
 }
 FNR = {
 	color = rgb { 33 84 30 }
-	colour_ui = rgb { 193 79 79 }
+	color_ui = rgb { 193 79 79 }
 }
 KOF = {
 	color = rgb { 160 86 105 }
-	colour_ui = rgb { 160 86 105 }
+	color_ui = rgb { 160 86 105 }
 }
 DNA = {
 	color = rgb { 98 82 114 }
-	colour_ui = rgb { 98 82 114 }
+	color_ui = rgb { 98 82 114 }
 }
 DNP = {
 	color = rgb { 135 81 75 }
-	colour_ui = rgb { 135 81 75 }
+	color_ui = rgb { 135 81 75 }
 }
 OCR = {
 	color = rgb { 206 106 95 }
-	colour_ui = rgb { 206 106 95 }
+	color_ui = rgb { 206 106 95 }
 }
 DRP = {
 	color = rgb { 79 163 152 }
-	colour_ui = rgb { 79 163 152 }
+	color_ui = rgb { 79 163 152 }
 }
 IRL = {
 	color = rgb { 119 113 89 }
-	colour_ui = rgb { 119 113 89 }
+	color_ui = rgb { 119 113 89 }
 }
 PFS = {
 	color = rgb { 122 73 112 }
-	colour_ui = rgb { 122 73 112 }
+	color_ui = rgb { 122 73 112 }
 }
 MDB = {
 	color = rgb { 109 228 255 }
-	colour_ui = rgb { 109 228 255 }
+	color_ui = rgb { 109 228 255 }
 }
 RAI = {
 	color = rgb { 129 228 255 }
-	colour_ui = rgb { 129 228 255 }
+	color_ui = rgb { 129 228 255 }
 }
 ONR = {
 	color = rgb { 198 228 255 }
-	colour_ui = rgb { 198 228 255 }
+	color_ui = rgb { 198 228 255 }
 }
 ARN = {
 	color = rgb { 181 26 47 }

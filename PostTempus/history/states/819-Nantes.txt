@@ -8,9 +8,6 @@ state={
 			11465 5
 		}
 
-			owner = BRI
-			add_core_of = BRI
-
 		buildings = {
 		
 			infrastructure = 5

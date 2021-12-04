@@ -9,8 +9,6 @@ state={
 	}
 
 	history={
-		owner = BSQ
-		add_core_of = BSQ
 
 		victory_points = {
 			743 5

@@ -16,7 +16,7 @@ set_politics = {
 set_popularities = {
 	conservatism = 50
 	fascism = 46
-	authoritarian_socialism = 4
+	vanguardist_socialism = 4
 }
 
 create_country_leader = {

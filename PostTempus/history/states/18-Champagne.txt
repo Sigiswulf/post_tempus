@@ -7,7 +7,6 @@ state={
 	state_category = large_town
 
 	history={
-		owner = BHP
 		victory_points = {
 			13011 5
 		}
@@ -19,7 +18,6 @@ state={
 			industrial_complex = 1
 			air_base = 10
 		}
-		add_core_of = BHP
 	}
 
 	provinces={

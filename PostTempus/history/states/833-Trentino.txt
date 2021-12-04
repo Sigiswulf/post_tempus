@@ -7,7 +7,6 @@ state={
 	}
 
 	history={
-		owner = PFS
 		victory_points = {
 			11598 1 
 		}
@@ -15,7 +14,6 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = PFS
 	}
 
 	provinces={

@@ -3,7 +3,6 @@ state={
 	name="STATE_835"
 
 	history={
-		owner = ONR
 		buildings = {
 			infrastructure = 2
 			9582 = {
@@ -12,7 +11,6 @@ state={
 			}
 
 		}
-		add_core_of = ONR
 	}
 
 	provinces={

@@ -3,13 +3,11 @@ state={
 	name="STATE_845"
 
 	history={
-		owner = CAM
 		buildings = {
 			infrastructure = 3
 			
 
 		}
-		add_core_of = CAM
 	}
 
 	provinces={

@@ -4,8 +4,6 @@ state={
 
 
 	history={
-	owner = WSL
-	add_core_of = WSL
 		victory_points = {
 			911 1 
 		}

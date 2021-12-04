@@ -103,7 +103,7 @@ ideologies = {
 
 		ai_neutral = yes # 
 	}
-	authoritarian_socialism = {
+	vanguardist_socialism = {
 		types = {
 			stalinism = {
 			}
@@ -157,7 +157,7 @@ ideologies = {
 
 		ai_neutral = yes # 
 	}
-	liberal_socialism = {
+	libertarian_socialism = {
 		types = {
 			religious_socialism = {
 			}

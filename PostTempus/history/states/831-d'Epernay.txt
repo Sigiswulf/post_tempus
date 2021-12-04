@@ -6,9 +6,6 @@ state={
 		victory_points = {
 			9490 5 
 		}
-
-		owner = FRA
-		add_core_of = FRA
 	}
 	provinces={
 		551 3533 6531 9490 11732 

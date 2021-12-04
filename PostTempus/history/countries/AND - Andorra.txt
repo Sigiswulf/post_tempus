@@ -35,11 +35,4 @@ set_popularities = {
 	conservatism = 64
 	liberalism = 36
 }
-create_country_leader = {
-	name = "Joan Enric Vives"
-	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
-	picture = "gfx/leaders/SPN/Joan_Enric_Vives.dds"
-	expire = "2020.1.1"
-	ideology = social_conservatism
-	traits = { }
-}
+recruit_character = AND_joan_enric_vives
